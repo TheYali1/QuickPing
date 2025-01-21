@@ -25,10 +25,10 @@
 
 ## תמונות מסך  
 **שלב הזנת המספר ובחירת הפלטפורמה:**  
-![מסך הזנת מספר](https://via.placeholder.com/400x200.png?text=הזנת+מספר+טלפון)  
+![מסך הזנת מספר](https://i.imgur.com/MyRRveW_d.webp?maxwidth=760&fidelity=grand)  
 
 **שליחת הודעה ב-WhatsApp או ב-Telegram:**  
-![מסך בחירת פלטפורמה](https://via.placeholder.com/400x200.png?text=בחירת+פלטפורמה)  
+![מסך בחירת פלטפורמה](https://i.imgur.com/hPqA0F7_d.webp?maxwidth=760&fidelity=grand)  
 
 ---
 
