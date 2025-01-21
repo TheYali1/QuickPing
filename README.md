@@ -25,22 +25,24 @@
 
 ## תמונות מסך  
 **שלב הזנת המספר ובחירת הפלטפורמה:**  
-![מסך הזנת מספר](https://i.imgur.com/MyRRveW_d.webp?maxwidth=760&fidelity=grand)  
 
-**שליחת הודעה ב-WhatsApp או ב-Telegram:**  
-![מסך בחירת פלטפורמה](https://i.imgur.com/hPqA0F7_d.webp?maxwidth=760&fidelity=grand)  
+<img src="https://i.imgur.com/MyRRveW_d.webp?maxwidth=760&fidelity=grand" alt="מסך הזנת מספר" width="300"> 
+
+**שליחת הודעה ב-WhatsApp או ב-Telegram:** 
+
+<img src="https://i.imgur.com/hPqA0F7_d.webp?maxwidth=760&fidelity=grand" alt="מסך בחירות פלטפורמה" width="300"> 
 
 ---
 
 ## הורדה  
-[לחץ כאן להורדת QuickPing](#)  
+[לחץ כאן להורדת QuickPing](https://quickping.glitch.me/)  
 
 ---
 
 ## צרו קשר  
 אם יש לכם שאלות, בעיות או הצעות לשיפור, אתם מוזמנים לפנות אלינו!  
-📧 **אימייל:** support@quickping.com  
-🌐 **אתר:** [QuickPing](#)  
+📧 **אימייל:** y.tech34345@gmail.com  
+🌐 **אתר:** [QuickPing](https://quickping.glitch.me/)  
 
 ---
 
