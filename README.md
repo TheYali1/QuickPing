@@ -1,3 +1,4 @@
+[![supportisraelbanner](https://i.imagesup.co/images2/3a3c6c08a8438023cd50e115d703a97d92a8d5b7.png)](https://github.com/TheYali1/support-israel-banner/tree/main)
 # QuickPing  
 האפליקציה הזו מאפשרת לך לשלוח הודעות לאנשים שאינם באנשי הקשר שלך, ב-WhatsApp וב-Telegram.  
 היא קלה לשימוש, מהירה, ופותרת את הצורך לשמור מספרים רק כדי לשלוח הודעה.  
